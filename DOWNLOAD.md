@@ -1,6 +1,6 @@
 Dataset **Intruder Detection** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/c/l/4h/h5C0KUQgTa4jycofx30xJcMaFtg9z9vObBEGD45r0hoDoWbSALTv6av6m5eO4zI56ctxyVxsTgN8U5CSG0F64GsHiZz7p35bwK442b4Ldt1zLsGlHiMM5ZSZHE7o.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
