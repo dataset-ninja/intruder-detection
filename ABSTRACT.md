@@ -1,5 +1,1 @@
-
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+The author of the **Intruder Detection** dataset assembled this data for a research project concerning monkey theft detection. To enhance its versatility and applicability, the dataset incorporates three additional categories beyond monkeys, comprising people, dogs, and cats.
