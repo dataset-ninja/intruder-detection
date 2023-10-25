@@ -46,7 +46,12 @@ GITHUB_URL: str = "https://github.com/dataset-ninja/intruder-detection"
 DOWNLOAD_ORIGINAL_URL: Optional[Union[str, dict]] = "https://www.kaggle.com/datasets/tarunbisht11/intruder-detection/download?datasetVersionNumber=2"
 # Optional link for downloading original dataset (e.g. "https://some.com/dataset/download")
 
-CLASS2COLOR: Optional[Dict[str, List[str]]] = None
+CLASS2COLOR: Optional[Dict[str, List[str]]] = {
+    "monkey": [230, 25, 75],
+    "dog": [60, 180, 75],
+    "cat": [255, 225, 25],
+    "person": [0, 130, 200],
+}    
 # If specific colors for classes are needed, fill this dict (e.g. {"class1": [255, 0, 0], "class2": [0, 255, 0]})
 
 # If you have more than the one paper, put the most relatable link as the first element of the list
